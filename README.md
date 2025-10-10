@@ -18,11 +18,15 @@
     - Learn how to parse expressions
     - Apply mathematical knowledge
     - Learn about algorithms
+    - Improve learning of Google Test
 ## Project Structure 📁
-    src/
-    tests/ (ignored)
-    build/ (ignored)
-    README.md
-    CMakeLists.txt (ignored)
-    .gitignore
+    evaluator-derivatives-integrals/
+        src/
+            -source files
+        tests/ (ignored)
+            -test file with gtest
+        build/ (ignored)
+        README.md
+        CMakeLists.txt (ignored)
+        .gitignore
 ## Enjoy The Ride 🚀♾️
